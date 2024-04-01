@@ -1,0 +1,5 @@
+name: Wildlife
+description: App that uses Groundlight to detect some animals. 
+runtime:
+  kind: poetry 
+entrypoint: "poetry run python start.py"
