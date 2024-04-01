@@ -9,6 +9,8 @@ readme = "README.md"
 [tool.poetry.dependencies]
 python = "^3.11"
 groundlight = "^0.14.0"
+pillow = "9.0.0"
+python-dotenv = "^1.0.1"
 
 
 [build-system]
